@@ -1,0 +1,10 @@
+alfanum = 'm'
+cad_caracteres = "Lucas Goulart do Prado"
+numero = 27
+num_real = 1.83
+verdade = true
+puts (alfanum)
+puts (cad_caracteres)
+puts(numero)
+puts (num_real)
+puts(verdade)
